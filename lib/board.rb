@@ -1,5 +1,4 @@
-def "board"
-  end
+board = []
   
   
   
